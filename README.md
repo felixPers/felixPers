@@ -6,6 +6,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Felix+Persson!;" />
 </h1>
 
+<p align="center">
+<a href="https://linkedin.com/in/perssonfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="perssonfelix" height="30" width="40" /></a>
+</p>
+
 <!--
 **felixPers/felixPers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
